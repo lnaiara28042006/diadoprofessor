@@ -4,16 +4,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
     mostrarMensagemBtn.addEventListener("click", function () {
         mensagem.innerHTML = "Feliz dia do professor" +
-        "Na linha de cada historia da vida" +
-        "há sempre um trecho que" +
-        "que conta as experiencias" +
-        "de um personagem especial," +
+        "Na linha de cada historia da vida," +
+        "há sempre um trecho que conta as experiências de um personagem especial," +
         "os professores." +
-        "A influencias" +
-        "de bons" +
-        "professores" +
-        "ninguem consegue" +
-        "apagar" +
+        "A influencia de bons professores," +
+        "ninguem consegue apagar." +
         "Feliz Dia dos Professores!"
     });
 });
